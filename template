@@ -1,0 +1,5 @@
+CPU(s): <cpu_num>
+...
+CPU MHz: <speed>
+CPU max MHz: <max_speed>
+BogoMIPS: <mips>
